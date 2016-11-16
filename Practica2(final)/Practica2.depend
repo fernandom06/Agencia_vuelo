@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1464943218 source:c:\users\fernando\dropbox\apuntes\1º informática\programacion\practica2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
